@@ -1,0 +1,504 @@
+
+
+.{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+.kay {
+    text-align: center;
+    font-size: large;
+    display: flex;
+    justify-content: space-between;
+}
+ .font{
+    /* text-align: right; */
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50px;
+}
+.grip-lines{
+    margin-left: 50px;
+}
+
+/* .glass{
+    margin-left:65%;
+    position: relative;bottom: 30px;
+    padding: 20px;
+    font-size: larger;
+    background-color: black;
+}
+ */
+
+
+.background{
+    background-image:url(image/c70616a728983ae5ffcfc8178d0e8681.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+
+.background .urban{
+    position: absolute;
+    left: 40%;
+     padding-top: 45px; 
+    color: whitesmoke;   
+
+}
+
+
+
+.background .kayujati h1 {
+    color:white; 
+    margin-left: 38%;
+    letter-spacing: 2px; 
+    font-size: 90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.background .design p {
+    margin-left: 57%;
+    color:whitesmoke;
+    font-size:15px;  
+    position: relative; bottom: 3rem;
+ }
+
+
+ .background .Shop button{
+    color: whitesmoke;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: transparent;
+    padding: 5px;
+    margin-top: 15rem;
+    margin-left: 69rem;
+ }
+
+ .background .order button{
+    color: whitesmoke;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: transparent;
+    padding: 5px;
+    margin-top: 1rem;
+    margin-left: 69rem;
+
+ }
+.background .image img{
+    width: 230px;
+    height: 130px;
+    position: relative; bottom: 6rem;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+
+.living .small{
+     color: gainsboro;
+     margin-top:4rem;
+     position: relative; left: 8%;
+
+
+}
+
+.living .small h1{color: black;
+    margin-top: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.living .design {
+    position: relative;left: 45%; bottom:100px;
+    letter-spacing: 2px;
+}
+
+
+.numbers .NO1{
+    font-size:7rem;
+}
+.numbers .NO2{
+    font-size:7rem;
+}.numbers .NO3{
+    font-size:7rem;
+}
+
+.numbers{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.review {
+    display: flex;
+    justify-content:space-around ;
+    /* margin-top: -2px; */
+
+
+}
+    
+
+.Funiture img {
+    width: 40%;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 5%;
+    object-fit: cover;
+}
+
+.Funiture {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.Funiture .content {
+    margin-right: 0px;
+    color: rgb(133, 125, 125);
+    padding-bottom: 10px;
+}
+
+.Funiture .btn {
+    border: black transparent;
+    color: black;
+    /* padding-left: 5px 10px; */
+    border-radius: 20px;
+    font-size: large;
+    padding: 6px 15px 6px 15px ;
+    
+
+}
+
+.chairs h1{
+    margin-left: 8%;
+    padding-top: 80px;
+}
+
+
+.pro{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.pro  small{
+    margin-left: 8%;
+    position: relative;bottom: 1rem;
+}
+.pro button{
+    margin-right:7rem;
+    border-radius: 15px;
+    padding: 7px;
+    background-color: white;
+}
+
+ .item1 img{
+    width: 200px;
+    height: 50vh;
+    border-radius: 20px;
+    object-fit: cover;
+    /* object-position: center; */
+}
+.item1 {
+    margin-left: 100px;
+    /* background-color: blue;  */
+    width: 75%;
+    
+    
+} 
+
+.chair01 p{
+    margin-left: 7rem;
+}
+ .lis{
+    font-size: 15px;
+    position: relative;right: 70px;
+}
+
+.chair01 small{
+    color:rgb(161, 158, 158);
+    position: relative;left: 20%;
+    
+}
+/* .chair01{
+    background-color: red;
+} */
+.chair02 img{
+    width: 200px;
+    height: 50vh;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.item2{
+    margin-left: 40px;
+    /* background-color: blue;  */
+    margin-top: 10%;
+    
+} 
+.chair02 button {
+    margin-left: 50px;
+    position: relative; top: 5%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    transform: rotate(30deg);
+
+
+}
+.chair02 p{ 
+    margin-left: 7rem;
+    position: relative;top: 3%;
+}
+
+.chair02 small{
+    /* color: orange; */
+    position: relative;left: 40%;
+    
+}
+.chair02 .rum{
+    position: relative;right: 30px;
+    font-size: 15px;
+
+}
+.chair03 img{
+    width: 200px;
+    height: 50vh;
+    /* margin-left: 50%;  */
+    border-radius: 20px;
+    object-fit: cover;
+}
+.item3{
+    margin-left: 30px;
+    /* background-color: blue;  */
+    
+} 
+.chair03 p{
+    margin-left: 7rem;
+    position: relative;top: 5%;
+}
+.chair03 .tim{
+    position: relative;right: 50px;
+    font-size: 15px;
+}
+
+.chair03 small{
+    color: rgb(145, 137, 137);
+    position: relative;left: 30%; top: 10px;
+
+}
+.chair04 img{
+    width: 200px;
+    height: 50vh;
+    /* margin-left: 50%;  */
+    border-radius: 20px;
+     /* margin-top: 20%;  */
+    object-fit: cover;
+}
+.item4{
+    margin-left:30px;
+    /* background-color: blue;  */
+    margin-top: 60%;
+    
+    
+} 
+.chair04 p{
+
+    position: relative;top: 5%;
+    margin-left: 5rem;
+    font-size: 15px;
+    
+}
+.mat{
+    font-size: 15px;
+    position: relative;bottom: 50px;
+}
+
+
+.chair05 img{
+    width: 200px;
+    height: 50vh;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.item5{
+    margin-left:30px;
+    /* background-color: blue;  */
+    
+} 
+.chair05 p{
+    margin-left: 7rem;
+}
+.chair05 .cit{
+    /* position: relative;left: 10px; */
+    font-size: 15px;
+}
+
+.chair05 small{
+    color: rgb(165, 165, 165);
+    margin-left: 50%;
+    position: relative;bottom: 20px;
+    
+}
+
+
+.exotic{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    /* background-color: red; */
+}
+
+
+.forest {
+    margin-left: 8%;
+    padding-top: 80px;
+    
+}
+.source{
+    display: flex;
+    justify-content: space-between;
+}
+.source img{
+    width:550px;
+    height:500px ; 
+    margin-top: 90px;
+    margin-right: 70px;
+    border-radius: 10px;
+}
+.source .forest button{
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+
+.plant {
+    background-image: url(image/89d7b94d1359ecbbc86637c2e9c3e5ff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;}
+
+
+
+.table
+    {background-image: url(image/3cfe00aa1a498715b2fc4f2301953981.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+
+    height: 100vh;
+    font-size: 20px;
+    text-align: center;
+    border-right : 40px;
+
+
+}
+
+
+
+.funitureplant{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 100px;
+    
+}
+.funitureplant h1{
+    padding-top: 30px;
+    color: white;
+}
+.table small {
+    font-size: 15px;
+    color:white;
+    margin-left: 15%;
+}
+.table button{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    margin-left: 35%;
+    margin-top: 90px; 
+}
+.paper-plane{
+    color: blue;
+    font-size: 50px;
+    visibility: visible;
+    border: 20px;
+}
+
+.section5 p{
+    font-size: 300px;
+    text-align: center;
+    letter-spacing: 4px;
+    /* position: relative;bottom: 25rem; */
+    color: rgba(165, 160,160, 0.671);
+    margin-top: 60px;
+}
+
+.section5ii a{
+    padding:40px ;
+    color: gray;
+    text-decoration: none;
+}
+.section5ii p{
+    color: black;
+}
+.section51{
+    display: flex;
+    justify-content:space-evenly ;
+    position: relative;bottom: 200px; 
+
+    
+}
+.section5i{
+    margin-bottom: 10rem;
+}
+.rights {
+    margin-top: 200px;
+}
+.section5ii p{
+    margin-top: 150px;
+}
+
+.background1{
+    
+    width: 100%;
+    justify-content: center;
+    overflow: hidden;
+}
+.all .brands{
+    display: grid;
+    /* grid-template-columns: 0.5fr  2fr; */
+    /* grid-template-rows: 1fr 1fr 1fr; 
+    
+    grid-column: auto;
+    /* grid-row: 2fr 2fr; */
+    gap: 8px;
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: start; */
+    position: relative;bottom: 300px;
+}
+.everything{
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
